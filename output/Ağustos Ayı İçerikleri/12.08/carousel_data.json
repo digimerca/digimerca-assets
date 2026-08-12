@@ -2,34 +2,34 @@
   "slides": [
     {
       "slide_number": 1,
-      "title": "Sitesi 5 Saniyede Açılmayan Firma Müşteri Kaybeder",
+      "title": "Yavaş Siteniz Sizden Habersiz Para Kaybettiriyor",
       "body_text": ""
     },
     {
       "slide_number": 2,
-      "title": "Yavaş Site, Kapanan Kapı Demektir",
-      "body_text": "Ziyaretçilerin büyük kısmı sayfa 3 saniyede açılmazsa siteden ayrılır. Bu ayrılan kişi bir daha geri dönmez; doğrudan rakibinizin sitesine gider. Hız sorunu, günlük kaybolan potansiyel müşteri demektir."
+      "title": "Gereksiz Kod Yükü",
+      "body_text": "Hazır tema ve eklentilerle kurulan siteler, kullanılmayan yüzlerce kod satırını tarayıcıya yükler. Ziyaretçi sayfayı beklerken rakip firmanın sitesine geçer. Bu, hiç tanışmadığınız bir müşteriyi kaybetmek demektir."
     },
     {
       "slide_number": 3,
-      "title": "Gereksiz Görsel ve Eklenti Yükü",
-      "body_text": "Hazır şablonlarla kurulan siteler çoğunlukla gereksiz görsel, eklenti ve kod parçalarıyla doludur. Bu yük sayfayı ağırlaştırır. Sonuç: ziyaretçi sabırsızlanır, teklif formunu doldurmadan çıkar."
+      "title": "Optimize Edilmemiş Görseller",
+      "body_text": "Telefonla çekilip doğrudan yüklenen büyük boyutlu fotoğraflar, sayfa açılışını saniyelerce geciktirir. Mobil kullanıcıların çoğu bu bekleyişi görmeden çıkış yapar. Görüntülenmeyen bir katalog, satılmayan bir ürün demektir."
     },
     {
       "slide_number": 4,
-      "title": "Ucuz Sunucu, Pahalı Kayıp",
-      "body_text": "Düşük maliyetli paylaşımlı sunucular binlerce siteyle aynı kaynağı paylaşır. Yoğun saatlerde siteniz yavaşlar veya çöker. Tam da müşterinin sizi aradığı anda erişilemez olursunuz."
+      "title": "Zayıf ve Paylaşımlı Sunucu Altyapısı",
+      "body_text": "Ucuz paylaşımlı barındırma hizmetleri, sitenizin performansını başka firmaların trafiğine bağımlı hale getirir. Yoğun saatlerde site yavaşlar veya çöker. Tam o an arayan müşteriniz sizi değil, açık kalan rakibi bulur."
     },
     {
       "slide_number": 5,
-      "title": "Hız Bir Tercih Değil, Satış Koşuludur",
-      "body_text": "Özel yazılımla geliştirilen, gereksiz yükten arındırılmış bir web sitesi hem müşteriyi elde tutar hem Google sıralamasında öne çıkarır. Site hızı optimizasyonu doğrudan gelir demektir."
+      "title": "Hız, Tesadüf Değil Mühendisliktir",
+      "body_text": "Site hızı; özel yazılan, gereksiz yükten arındırılmış bir web sitesiyle garanti altına alınır. Özel web sitesi geliştirme, kaybettiğiniz her saniyeyi kazanca çevirir."
     },
     {
       "slide_number": 6,
-      "title": "Siteniz Kaç Saniyede Açılıyor?",
-      "body_text": "Digimerca ile web sitenizin hızını ücretsiz değerlendirelim. Sorunu netleştirip somut çözümü birlikte belirleyelim — DM'den yazın."
+      "title": "Sitenizin Hızını Şimdi Test Edelim",
+      "body_text": "Web sitenizin hızını ücretsiz değerlendirelim ve size özel çözümü paylaşalım. Detaylar için Digimerca'ya DM gönderin."
     }
   ],
-  "caption": "Türkiye'deki birçok işletme sahibi, web sitesinin neden müşteri getirmediğini sorguluyor ama sitenin açılış hızını hiç kontrol etmiyor. Oysa yavaş açılan bir site, kapıya gelen müşteriyi eşikte geri çevirmek gibidir.\n\nDigimerca, özel yazılım geliştirme yaklaşımıyla gereksiz kod ve görsel yükünden arındırılmış, hızlı çalışan web siteleri kurar. Bu hem ziyaretçi kaybını önler hem de Google sıralamasında görünürlüğünüzü güçlendirir.\n\nWeb sitenizin hızını ücretsiz değerlendirmemizi ister misiniz? Hemen DM gönderin."
+  "caption": "Türkiye'deki birçok işletme sahibi, sitesinin neden müşteri getirmediğini bilmiyor; oysa sorun genelde tasarımda değil, açılış süresinde gizli.\n\nDigimerca, gereksiz kod yükünden arındırılmış, hızlı çalışan özel web sitesi geliştirme hizmeti sunar; her saniye, kaçırdığınız bir müşteri anlamına gelir.\n\nWeb sitenizin hız testini ücretsiz yaptırmak için Digimerca'ya DM gönderin."
 }
