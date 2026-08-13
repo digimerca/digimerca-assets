@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Yavaşlığın Sebebi Sunucu Değil",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Şişirilmiş Görsel Dosyaları",
+      "body_text": "Hazır şablonlarla kurulan siteler, boyutu optimize edilmemiş görseller yükler. Her fazladan megabyte, ziyaretçinin telefonunda saniyeler kaybettirir. O saniyeler, teklif formunu doldurmadan çıkan bir müşteri demektir."
+    },
+    {
+      "slide_number": 3,
+      "title": "Gereksiz Eklenti Yığını",
+      "body_text": "Hazır altyapılarda her özellik için ayrı bir eklenti eklenir. Kullanılmayan onlarca eklenti arka planda çalışır, sayfa açılışını yavaşlatır. Şirketiniz kullanmadığı özellikler için hız kaybediyor."
+    },
+    {
+      "slide_number": 4,
+      "title": "Temiz Yazılmamış Kod Yapısı",
+      "body_text": "Şablon temalar, herkese uyacak şekilde gereğinden fazla kod barındırır. Bu fazlalık tarayıcının işini uzatır. Rakibiniz özel yazılmış, sade bir siteyle sizden önce yüklenip müşteriyi kapar."
+    },
+    {
+      "slide_number": 5,
+      "title": "Çözüm Şablon Değişikliği Değil",
+      "body_text": "Hız sorunu tema değiştirmekle çözülmez; sıfırdan özel yazılmış, gereksiz kod ve eklentiden arındırılmış bir web sitesiyle çözülür. Digimerca'nın özel web yazılımı, sitenizi baştan hızlı kurar."
+    },
+    {
+      "slide_number": 6,
+      "title": "Sitenizin Hızını Şimdi Test Edelim",
+      "body_text": "Web sitenizin hızını düşüren gerçek nedeni ücretsiz analiz edelim. Digimerca'ya DM gönderin, size özel yazılım çözümünü birlikte netleştirelim."
+    }
+  ],
+  "caption": "Türkiye'deki birçok işletme, web sitesinin neden yavaş açıldığını bilmiyor ve sorunu hosting şirketine yıkıyor.\n\nGerçek sebep genellikle şablon temalardaki şişirilmiş kod, gereksiz eklentiler ve optimize edilmemiş görseller. Digimerca, sıfırdan özel yazılım geliştirerek bu fazlalıkları ortadan kaldırıyor ve sitenizi gerçek anlamda hızlandırıyor.\n\nSitenizin hızını düşüren nedeni öğrenmek için DM gönderin, size ücretsiz bir değerlendirme sunalım."
+}
