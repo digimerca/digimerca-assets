@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Sitenizi Yavaşlatan Şey Kod Değil",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Sıkıştırılmamış Görseller Sessizce Zaman Çalar",
+      "body_text": "Yüksek çözünürlüklü ürün ve kurumsal fotoğraflar optimize edilmeden yüklendiğinde her ziyaretçi saniyeler boyunca boş ekrana bakar. Bu saniyeler, rakibe kayan bir teklif talebi demektir."
+    },
+    {
+      "slide_number": 3,
+      "title": "Gereksiz Eklentiler Sayfayı Ağırlaştırır",
+      "body_text": "Zamanla eklenen form, sohbet kutusu, pop-up gibi parçalar sitenizi bir çuvala benzer hale getirir. Her biri ayrı ayrı küçük görünür ama toplamda sayfa açılışını ciddi oranda geciktirir."
+    },
+    {
+      "slide_number": 4,
+      "title": "Mobilde Test Edilmemiş Tasarım Cezalandırılır",
+      "body_text": "Masaüstünde hızlı görünen bir site, mobilde saniyelerce donabilir. Türkiye'de ziyaretlerin büyük kısmı telefondan gelirken bu fark doğrudan kaybedilen randevu ve sipariş anlamına gelir."
+    },
+    {
+      "slide_number": 5,
+      "title": "Hız Bir Detay Değil, Satış Kararıdır",
+      "body_text": "Özel yazılım geliştirmeyle kurulan bir site, bu dört sorunu kaynağında çözerek hem ziyaretçiyi hem Google sıralamanızı korur."
+    },
+    {
+      "slide_number": 6,
+      "title": "Sitenizin Hızını Birlikte İnceleyelim",
+      "body_text": "Digimerca'dan ücretsiz site hızı değerlendirmesi için DM gönderin."
+    }
+  ],
+  "caption": "Türkiye'deki birçok işletme sahibi sitesinin neden yavaş açıldığını bilmiyor; sorunu sunucuda ya da internet hızında sanıyor. Oysa sorun çoğu zaman görsellerde, gereksiz eklentilerde ve mobil uyumsuz tasarımda gizli.\n\nDigimerca, özel web sitesi geliştirme sürecinde bu dört noktayı en baştan tasarıma dahil eder; site hem masaüstünde hem mobilde hızlı açılır, hem de Google sıralamanızı destekler.\n\nSitenizin hızını nerede kaybettiğini görmek için DM gönderin, birlikte inceleyelim."
+}
