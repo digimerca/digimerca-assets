@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Yavaş Sitenizin Asıl Suçlusu Tasarım Kararlarınız",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Sıkıştırılmamış Görseller Sessizce Müşteri Kaçırıyor",
+      "body_text": "Ürün fotoğraflarınız yüksek çözünürlüklü ama optimize edilmemişse, sayfa açılırken ziyaretçi sabırsızlanıp rakip firmaya geçer. Bu görsel yükünü fark etmeden her gün potansiyel müşteri kaybediyorsunuz."
+    },
+    {
+      "slide_number": 3,
+      "title": "Gereksiz Eklentiler Siteyi Yavaşlatan Gizli Yük",
+      "body_text": "Hazır tema üzerine eklenen her ekstra özellik, arka planda çalışan gereksiz bir yük oluşturur. Kullanmadığınız bu eklentiler sayfa açılış süresini uzatır ve ziyaretçinin sabrını zorlar."
+    },
+    {
+      "slide_number": 4,
+      "title": "Mobilde Test Edilmemiş Site Randevu Kaybettirir",
+      "body_text": "Müşterilerinizin çoğu telefondan bakıyor. Site masaüstünde hızlı ama mobilde ağır çalışıyorsa, o kişi formu doldurmadan sayfayı kapatır ve bir daha geri dönmez."
+    },
+    {
+      "slide_number": 5,
+      "title": "Hız Sorunu Teknik Değil, Gelir Sorunudur",
+      "body_text": "Bu dört neden fark edilmeden şirketinize her ay müşteri kaybettiriyor; özel yazılımla kurulmuş, hız için baştan optimize edilmiş bir site bu kaybı doğrudan durdurur."
+    },
+    {
+      "slide_number": 6,
+      "title": "Sitenizin Hızını Birlikte Değerlendirelim",
+      "body_text": "İşletmenizin web sitesini ücretsiz hız ve performans değerlendirmesinden geçirelim. Digimerca'ya DM gönderin, kaybettiğiniz fırsatı birlikte tespit edelim."
+    }
+  ],
+  "caption": "Türkiye'deki birçok işletme sahibi web sitesinin yavaş olduğunu biliyor ama nedenini bulamıyor; sorunu sunucuya veya interneti yavaş olan müşteriye yorup asıl kaynağı hiç sorgulamıyor.\n\nOysa yavaşlığın asıl kaynağı çoğu zaman optimize edilmemiş görseller, gereksiz eklentiler ve mobilde test edilmemiş tasarımdır. Digimerca, özel web sitesi geliştirme sürecinde bu kaynakları baştan tespit edip site hızını iş sonucuna dönüştürür.\n\nSitenizin hızını ücretsiz değerlendirmemizi ister misiniz? DM gönderin, size 15 dakikada net bir tablo çıkaralım."
+}
