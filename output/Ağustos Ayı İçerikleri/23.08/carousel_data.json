@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Fazladan Alan, Kayıp Müşteri",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Doldurmayı Bitiremeden Kaçıyor",
+      "body_text": "Ziyaretçi teklif formuna girer, karşısında on iki alan görür: unvan, sektör, bütçe aralığı, referans kodu... Karar vericinin cebinde vakti yoktur. Form uzun görünen an, sekmeyi kapatır ve rakibin formuna geçer."
+    },
+    {
+      "slide_number": 3,
+      "title": "Formun Gerçek Görevi Bilgi Toplamak Değil",
+      "body_text": "Bir teklif formunun tek görevi iletişim başlatmaktır, dosya toplamak değil. İsim, telefon ve tek satır ihtiyaç açıklaması yeterlidir. Bütçe, sektör kodu, referans gibi alanlar ilk görüşmede sözlü alınır; formda değil."
+    },
+    {
+      "slide_number": 4,
+      "title": "Her Ekstra Alan Bir Çıkış Kapısıdır",
+      "body_text": "Formunuzda beş alan varsa on kişiden yedisi tamamlar; sekiz alana çıktığınızda bu sayı üçe düşer. Fark ettirmeden kaybettiğiniz o dört kişi, aynı gün rakibinize telefon açmıştır."
+    },
+    {
+      "slide_number": 5,
+      "title": "Az Alan, Çok Teklif",
+      "body_text": "Özel olarak tasarlanan bir web sitesinde form akışı, davranış verisine göre kurulur; gereksiz her alan elenir. Sonuç: aynı trafikle çok daha fazla dolan form ve çok daha fazla gelen teklif talebi."
+    },
+    {
+      "slide_number": 6,
+      "title": "Formunuzu Birlikte İnceleyelim",
+      "body_text": "Digimerca, mevcut teklif formunuzu ücretsiz değerlendirir ve hangi alanın satışı kestiğini gösterir. Detaylar için DM gönderin, birlikte inceleyelim."
+    }
+  ],
+  "caption": "Türkiye'deki birçok işletmenin teklif formu, ziyaretçiyi bilgilendirmek yerine yorar; sektör, bütçe aralığı, referans kodu gibi gereksiz alanlar yüzünden karar verici formu yarıda bırakıp rakibe yönelir.\n\nDigimerca, özel web yazılımı sürecinde form akışını davranış verisine göre kurar; gereksiz alanları eler, formu iki adıma indirir ve dolma oranını doğrudan yükseltir.\n\nMevcut teklif formunuzun kaç alanının satışı kestiğini görmek için DM gönderin, birlikte inceleyelim."
+}
