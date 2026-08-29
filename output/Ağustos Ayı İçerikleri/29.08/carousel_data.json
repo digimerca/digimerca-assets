@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Yoktu ama sattınız.",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Satış Depoya Sorar, Müşteri Bekler",
+      "body_text": "Satış ekibiniz her teklif öncesi depoyu arıyor mu? Telefon açılana kadar müşteri rakibinizi aramış olabilir. Stok bilgisi telefonla dolaşıyorsa, satış hızınız depodaki en yavaş cevaba bağlıdır."
+    },
+    {
+      "slide_number": 3,
+      "title": "Tek Ekranda Canlı Stok",
+      "body_text": "Çözüm basit: satış ekibinin, depodaki ürün miktarını telefon açmadan anlık gördüğü bir stok takip ekranı kurun. Ürün kodunu yazan personel, o an satılabilir miktarı görür; olmayan ürünü müşteriye asla teklif etmez."
+    },
+    {
+      "slide_number": 4,
+      "title": "Bir Yanlış Söz, Bir Kayıp Müşteri",
+      "body_text": "\"Var\" dediğiniz ürün depoda çıkmadığında müşteri sadece siparişini değil, size olan güvenini de kaybeder. Bu tür hatalar tekrarlandıkça firmanız güvenilmez bir tedarikçi olarak anılır."
+    },
+    {
+      "slide_number": 5,
+      "title": "Bilgi Doğruysa Satış Kaybolmaz",
+      "body_text": "Depo ile satış arasında kurulan özel bir yazılım, yanlış sözü ve kayıp müşteriyi ortadan kaldırır. Stok gerçeği tek ekranda toplanınca, satış ekibiniz sadece elinizdeki ürünü satar ve her sözünü tutar."
+    },
+    {
+      "slide_number": 6,
+      "title": "Depo-Satış Hattınızı Kuralım",
+      "body_text": "Digimerca, satış ekibinizin depoyu aramadan anlık stok gördüğü özel takip sistemini sizin için tasarlar. İşletmenize özel bu çözümü konuşmak için DM gönderin."
+    }
+  ],
+  "caption": "Satış ekibiniz müşteriye \"evet var\" dedikten sonra depodan \"o üründen kalmadı\" cevabı geliyorsa, kaybedilen sadece o sipariş değildir; firmanıza duyulan güvendir.\n\nDigimerca, satış ekibinizin depodaki gerçek stok miktarını telefon açmadan tek ekrandan gördüğü özel bir iş takip yazılımı kurar. Böylece olmayan ürün asla teklife girmez, satış hızınız depodan bağımsız hale gelir.\n\nBu sistemi işletmenize nasıl kuracağımızı konuşmak için DM gönderin."
+}
