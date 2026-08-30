@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Sayfa 8 Saniyede Açılıyor.",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "Suçlu Görsel Değil, Boyutu",
+      "body_text": "Web sitenize koyduğunuz ürün fotoğrafı, referans logosu veya kurumsal görsel muhtemelen 4-5 MB ağırlığında. Kaliteli görünsün diye eklenen o dosya, aslında ziyaretçiyi kapıda bekletiyor ve sabırsız müşteriyi rakibe gönderiyor."
+    },
+    {
+      "slide_number": 3,
+      "title": "Uygulanabilir Çözüm: Format ve Boyut",
+      "body_text": "PNG ve JPG formatındaki devasa görselleri WebP formatına çevirin. Aynı görsel kalitesini korurken dosya boyutunu 150 KB'ın altına indirin. Bu tek işlem, sayfanın taşıdığı yükü ciddi oranda hafifletir."
+    },
+    {
+      "slide_number": 4,
+      "title": "150 KB'ın Üzerindeki Her Görsel Bir Risk",
+      "body_text": "Sıkıştırılmamış her fotoğraf, sayfanın açılış süresine saniyeler ekler. Mobilden bakan bir karar verici için bu saniyeler, teklif almadan sekmeyi kapatma anlamına gelir. Görsel ağırlığı fark edilmeyen ama en pahalı hatalardan biridir."
+    },
+    {
+      "slide_number": 5,
+      "title": "Hafif Site, Kaybolmayan Müşteri",
+      "body_text": "Görselleri WebP'ye çevirip doğru boyuta getirmek, sitenizin ilk üç saniyede açılmasını sağlar. Bu teknik detay değil, doğrudan kaç müşterinin sayfada kalıp teklif bıraktığını belirleyen bir iş kararıdır."
+    },
+    {
+      "slide_number": 6,
+      "title": "Siteniz Kaç Saniyede Açılıyor?",
+      "body_text": "Digimerca, sitenizin görsel ağırlığını analiz edip özel yazılım çözümüyle optimize eder. Ücretsiz hız değerlendirmesi için DM'den yazın."
+    }
+  ],
+  "caption": "Bir müşteri adayı sitenize giriyor, ürün görseli yüklenene kadar 8 saniye bekliyor ve çoğu zaman beklemeden çıkıyor. Sebep sunucu ya da yazılım değil; sayfaya konan 4-5 MB ağırlığındaki sıkıştırılmamış PNG ve JPG dosyaları.\n\nDigimerca, özel web yazılımı sürecinde tüm görselleri WebP formatına çevirip 150 KB altına indirir. Aynı görsel kalitesi, çok daha hafif bir sayfa ve çok daha hızlı açılış süresi ortaya çıkar.\n\nSitenizin gerçek açılış hızını öğrenmek isterseniz DM'den yazın, birlikte değerlendirelim."
+}

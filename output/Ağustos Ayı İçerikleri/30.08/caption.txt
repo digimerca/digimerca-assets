@@ -1,0 +1,7 @@
+Bir müşteri adayı sitenize giriyor, ürün görseli yüklenene kadar 8 saniye bekliyor ve çoğu zaman beklemeden çıkıyor. Sebep sunucu ya da yazılım değil; sayfaya konan 4-5 MB ağırlığındaki sıkıştırılmamış PNG ve JPG dosyaları.
+
+Digimerca, özel web yazılımı sürecinde tüm görselleri WebP formatına çevirip 150 KB altına indirir. Aynı görsel kalitesi, çok daha hafif bir sayfa ve çok daha hızlı açılış süresi ortaya çıkar.
+
+Sitenizin gerçek açılış hızını öğrenmek isterseniz DM'den yazın, birlikte değerlendirelim.
+
+#özelyazılım #b2bpazarlama #googlesıralaması #seodanışmanlığı #dijitaldönüşüm #webgeliştirme #işletmeyönetimi #kullanıcıdeneyimi #kurumsalsite #yazılımçözümleri #dijitalstrateji #siteoptimizasyonu #b2btürkiye #webyazılım
