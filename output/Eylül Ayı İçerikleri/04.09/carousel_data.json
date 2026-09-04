@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Görüşülen müşteri unutuldu.",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "\"Haftaya Ararım\" Dedi, Kimse Aramadı",
+      "body_text": "Satış temsilcisi görüşmeyi not defterine yazdı ya da hafızasına güvendi. Hafta geçti, gündem değişti, müşteri unutuldu. O müşteri şimdi rakibinizle konuşuyor çünkü ilk arayan kazanıyor."
+    },
+    {
+      "slide_number": 3,
+      "title": "Unutmayı Sisteme Bırakın",
+      "body_text": "Mini bir CRM kurun: temsilci 'haftaya ara' dediği anda o müşteri için otomatik hatırlatıcı oluşsun. Belirtilen gün geldiğinde sistem uyarı gönderir, kimse hafızasına güvenmek zorunda kalmaz."
+    },
+    {
+      "slide_number": 4,
+      "title": "Excel Notu Hatırlatmaz",
+      "body_text": "Excel'e yazılan not size seslenmez, telefon çalmaz, bildirim göndermez. O tablo açılmadığı sürece müşteri yok gibidir. Oysa doğru sistemde her müşteri, doğru günde önünüze tekrar gelir."
+    },
+    {
+      "slide_number": 5,
+      "title": "Takip Eden Satar",
+      "body_text": "Ürün ya da fiyat çoğu zaman aynı; kazanan, zamanında geri dönen taraf olur. Otomatik hatırlatıcılı bir sistem, ekibinizin unutkanlığını değil disiplinini öne çıkarır."
+    },
+    {
+      "slide_number": 6,
+      "title": "Bu Sistemi Şirketinize Kuralım",
+      "body_text": "Digimerca, satış ekibinizin hiçbir müşteriyi kaçırmadan takip edeceği özel bir CRM yazılımı kurar. İhtiyacınızı netleştirmek için DM gönderin."
+    }
+  ],
+  "caption": "Türkiye'deki birçok şirkette satış temsilcisi 'haftaya ararım' der, sonra o müşteri unutulur. Not defterine yazılan ya da hafızaya güvenilen her görüşme, birkaç gün içinde kaybedilen bir fırsata dönüşür.\n\nDigimerca, satış ekibinizin her müşteriyi doğru zamanda otomatik hatırlatıcıyla tekrar arayacağı özel bir mini CRM yazılımı kurar. Kimse unutmaz, hiçbir müşteri masada kalmaz.\n\nŞirketinizin satış takibini sistemli hale getirmek için DM gönderin."
+}
