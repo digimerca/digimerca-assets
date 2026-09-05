@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Tarayıcı Müşterinizi Uyarıyor",
+      "body_text": ""
+    },
+    {
+      "slide_number": 2,
+      "title": "O Kırmızı Yazıyı Herkes Görüyor",
+      "body_text": "Ziyaretçi siteye girer, adres çubuğunda 'Güvenli Değil' ibaresini görür. Kart bilgisi girmeyi düşünmez bile. Formu doldurmaz. Telefonu bile aramaz. Tek bir uyarı, o güne kadar harcanan tüm reklam bütçesini boşa çıkarır."
+    },
+    {
+      "slide_number": 3,
+      "title": "Kilit Simgesi Kararı Verdirir",
+      "body_text": "SSL sertifikası eksiksiz kurulmadan siteye tek bir müşteri bile güvenmez. Kurulum tamamlandıktan sonra ödeme ve iletişim formunun hemen yanına resmi güvenlik rozetleri yerleştirilir. Ziyaretçi kilit simgesini ve rozeti gördüğü an tereddüt kalkar, işlem tamamlanır."
+    },
+    {
+      "slide_number": 4,
+      "title": "Rakip Siteye Kayan Müşteri",
+      "body_text": "Kararsız müşteri iki sekmeyi yan yana açar. Biri güvenli, diğeri uyarılı. Seçim saniyeler içinde yapılır ve kaybeden taraf her zaman uyarı alan site olur. Bu kayıp fatura kesilmeden, hiçbir raporda görünmeden gerçekleşir."
+    },
+    {
+      "slide_number": 5,
+      "title": "Güven Satışın Ön Koşuludur",
+      "body_text": "Doğru kurulmuş SSL ve görünür güvenlik rozetleri, ürün veya hizmet kadar satışı belirler. Digimerca'nın geliştirdiği kurumsal web yazılımları bu güven katmanını eksiksiz kurar."
+    },
+    {
+      "slide_number": 6,
+      "title": "Siteniz Güvenli mi?",
+      "body_text": "İşletmenizin sitesini ücretsiz güvenlik ve dönüşüm değerlendirmesinden geçirelim. DM'den yazın, size özel raporu iletelim."
+    }
+  ],
+  "caption": "Türkiye'deki birçok işletme sitesi hâlâ tarayıcıda 'Güvenli Değil' uyarısıyla açılıyor ve bunun farkında bile değil. Ziyaretçi bu uyarıyı gördüğü an formu doldurmuyor, kartını girmiyor, aramıyor.\n\nDigimerca, kurumsal web yazılımı projelerinde SSL sertifikasını eksiksiz kurar ve ödeme ile iletişim adımlarında resmi güvenlik rozetlerini görünür kılar. Bu detay, ziyaretçinin karar anındaki tereddüdünü ortadan kaldırır.\n\nSitenizin güvenlik durumunu ücretsiz kontrol edelim. DM'den yazın, birlikte değerlendirelim."
+}
